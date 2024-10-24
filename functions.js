@@ -32,3 +32,8 @@ console.log(minutesToHours(200))
 function canDriveCar(user,car){
 
 }
+
+function max6(num1,num2,num3,num4,num5,num6){
+    return Math.max(1,2,3,4,5,6)
+}
+console.log(max6(1,2,3,4,5,6))
